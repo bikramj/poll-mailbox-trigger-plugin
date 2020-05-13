@@ -48,7 +48,7 @@ jenkinsPlugin {
 
 dependencies {
     compile "org.jenkins-ci.lib:xtrigger-lib:0.25"
-    compile "com.sun.mail:javax.mail:1.5.1"
+    compile "com.sun.mail:javax.mail:1.6.1"
 
     // Useful for interrogating the injected environment variables...
 //    jenkinsPlugins 'org.jenkins-ci.plugins:envinject:1.92.1@jar'
